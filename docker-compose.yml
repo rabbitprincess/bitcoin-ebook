@@ -1,0 +1,10 @@
+services:
+  mdbook:
+    image: dreamcacao/mdbook:latest
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app/src
+    command: [ "mdbook", "serve", "--hostname", "0.0.0.0" ]
