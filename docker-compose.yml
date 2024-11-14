@@ -6,5 +6,7 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ./src:/app/src
+      - ./src:/book/src
+      - ./book.toml:/book/book.toml
+      - ./output:/book/book
     command: [ "mdbook", "serve", "--hostname", "0.0.0.0" ]
