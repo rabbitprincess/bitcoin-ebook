@@ -34,18 +34,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Docker Compose
+      - name: Build mdbook
         run: |
-          docker compose up -d
-          docker compose exec mdbook mdbook build
-
-      - name: Cleanup Docker Compose
-        run: docker compose down
+          docker run --rm \
+          -v ${{ github.workspace }}/src:/book/src \
+          -v ${{ github.workspace }}/output:/book/output \
+          -v ${{ github.workspace }}/book.toml:/book/book.toml \
+          dreamcacao/mdbook:latest mdbook build -d /book/output
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./output
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
 
   # Deployment job
   deploy:
