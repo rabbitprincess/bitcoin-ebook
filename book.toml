@@ -7,3 +7,6 @@ title = "비트코인, 돈이 될까?"
 
 [build]
 build-dir = "output"
+
+[output.html]
+site-url = "https://rabbitprincess.github.io/bitcoin-ebook/"
