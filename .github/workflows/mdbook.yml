@@ -36,11 +36,11 @@ jobs:
 
       - name: Setup Docker Compose
         run: |
-          docker-compose up -d
-          docker-compose exec mdbook mdbook build
+          docker compose up -d
+          docker compose exec mdbook mdbook build
 
       - name: Cleanup Docker Compose
-        run: docker-compose down
+        run: dockercompose down
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
