@@ -4,3 +4,6 @@ language = "kr"
 multilingual = false
 src = "src"
 title = "비트코인, 돈이 될까?"
+
+[build]
+build-dir = "output"
