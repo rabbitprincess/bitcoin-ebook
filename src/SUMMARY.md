@@ -12,7 +12,7 @@
     - [CAP 이론: 분산 시스템의 세 가지 속성]()
     - [비잔틴 장군의 문제: 신뢰 없는 환경에서의 합의](2_2_byzantine.md)
     - [Sybil 문제: 네트워크 공격과 보안](2_3_sybil_problem.md)
-    - [블록체인에 코인이 필요할까?]()
+    - [블록체인에 코인이 필요할까?](2_4_blockchain_and_coin.md)
 
 - [비트코인의 경제](3_0_economy.md)
     - [부와 돈](3_1_wealth_money.md)
