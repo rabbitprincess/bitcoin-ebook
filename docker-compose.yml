@@ -1,8 +1,9 @@
 services:
   mdbook:
-    image: dreamcacao/mdbook:latest
     build:
       context: .
+    image: dreamcacao/mdbook:v0.0.1
+    pull_policy: always
     ports:
       - "3000:3000"
     volumes:
