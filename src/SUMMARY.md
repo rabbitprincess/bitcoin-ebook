@@ -4,9 +4,9 @@
 
 - [비트코인의 사상](1_0_ideology.md)
     - [사이버펑크(cyberpunk)와 사이퍼펑크(cypherpunk)](1_1_cyperfunc.md)
-    - [사토시 나카모토의 유산](1_2_satoshi_legacy.md)
-    - [탈중앙화]()
-    - [개발자 문화](1_4_developer_culture.md)
+    - [탈중앙화](1_2_decentralization.md)
+    - [사토시 나카모토](1_3_satoshi.md)
+    - [개발자 문화](1_4_developer.md)
 
 - [비트코인의 기술]()
     - [CAP 이론: 분산 시스템의 세 가지 속성]()
