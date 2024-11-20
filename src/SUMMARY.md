@@ -3,15 +3,15 @@
 - [서론](0_introduction.md)
 
 - [비트코인의 사상](1_0_ideology.md)
-    - [사이버펑크(cyberpunk)와 사이퍼펑크(cypherpunk)](1_1_cyperfunc.md)
+    - [사이퍼펑크](1_1_cyperfunc.md)
     - [탈중앙화](1_2_decentralization.md)
     - [개발자 문화](1_3_developer.md)
     - [사토시 나카모토](1_4_satoshi.md)
 
 - [비트코인의 기술](2_0_technology.md)
-    - [CAP 이론: 분산 시스템의 세 가지 속성]()
-    - [비잔틴 장군의 문제: 신뢰 없는 환경에서의 합의](2_2_byzantine.md)
-    - [Sybil 문제: 네트워크 공격과 보안](2_3_sybil_problem.md)
+    - [분산 시스템](2_1_distribute_system.md)
+    - [비잔틴 장군의 문제](2_2_byzantine.md)
+    - [Sybil 문제](2_3_sybil_problem.md)
     - [블록체인에 코인이 필요할까?](2_4_blockchain_and_coin.md)
 
 - [비트코인의 경제](3_0_economy.md)
