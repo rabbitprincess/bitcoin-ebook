@@ -21,10 +21,10 @@
     - [비트코인의 내구성](3_4_durability.md)
     - [경제 위기와 비트코인]()
 
-- [비트코인의 미래]()
-    - [Layer Network]()
-    - [양자 컴퓨터와 비트코인]()
-    - [AI 와 비트코인]()
+- [비트코인의 미래](4_0_future.md)
+    - [Layer Network](4_1_layer_network.md)
+    - [양자 컴퓨터와 비트코인](4_2_quantum_computer.md)
+    - [AI 와 비트코인](4_3_ai.md)
     - [반감기와 수수료]()
 
 - [비트코인의 오해와 진실](5_0_myths.md)
