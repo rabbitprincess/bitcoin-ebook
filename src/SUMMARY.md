@@ -19,7 +19,7 @@
     - [권위와 화폐](3_2_authority_currency.md)
     - [인플레이션](3_3_inflation.md)
     - [비트코인의 내구성](3_4_durability.md)
-    - [경제 위기와 비트코인]()
+    - [경제 위기와 비트코인](3_5_crisis.md)
 
 - [비트코인의 미래](4_0_future.md)
     - [Layer Network](4_1_layer_network.md)
