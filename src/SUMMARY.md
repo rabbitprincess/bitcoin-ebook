@@ -24,7 +24,8 @@
 - [비트코인의 미래](4_0_future.md)
     - [Layer Network](4_1_layer_network.md)
     - [양자 컴퓨터와 비트코인](4_2_quantum_computing.md)
-    - [AI 와 비트코인](4_3_ai.md)
+    - [저장소로써의 비트코인](4_3_repository_bitcoin.md)
+    - [AI 와 비트코인](4_4_ai.md)
     - [반감기와 수수료]()
 
 - [비트코인의 오해와 진실](5_0_myths.md)
