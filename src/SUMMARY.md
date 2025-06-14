@@ -2,11 +2,13 @@
 
 - [서론](0_introduction.md)
 
-- [비트코인의 사상](1_0_ideology.md)
-    - [사이퍼펑크](1_1_cypherfunk.md)
-    - [탈중앙화](1_2_decentralization.md)
-    - [개발자 문화](1_3_developer.md)
-    - [사토시 나카모토](1_4_satoshi.md)
+
+- [비트코인의 경제](1_0_economy.md)
+    - [부와 돈](1_1_wealth_money.md)
+    - [권위와 화폐](1_2_authority_currency.md)
+    - [인플레이션](1_3_inflation.md)
+    - [비트코인의 내구성](1_4_durability.md)
+    - [경제 위기와 비트코인](1_5_crisis.md)
 
 - [비트코인의 기술](2_0_technology.md)
     - [분산 시스템](2_1_distribute_system.md)
@@ -14,12 +16,12 @@
     - [Sybil 문제](2_3_sybil_problem.md)
     - [블록체인에 코인이 필요할까?](2_4_blockchain_and_coin.md)
 
-- [비트코인의 경제](3_0_economy.md)
-    - [부와 돈](3_1_wealth_money.md)
-    - [권위와 화폐](3_2_authority_currency.md)
-    - [인플레이션](3_3_inflation.md)
-    - [비트코인의 내구성](3_4_durability.md)
-    - [경제 위기와 비트코인](3_5_crisis.md)
+- [비트코인의 사상](3_0_ideology.md)
+    - [사이퍼펑크](3_1_cypherfunk.md)
+    - [탈중앙화](3_2_decentralization.md)
+    - [개발자 문화](3_3_developer.md)
+    - [사토시 나카모토](3_4_satoshi.md)
+
 
 - [비트코인의 미래](4_0_future.md)
     - [Layer Network](4_1_layer_network.md)
